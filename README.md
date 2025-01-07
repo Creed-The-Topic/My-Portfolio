@@ -26,7 +26,7 @@ Follow these steps to run the project locally:
 Clone this repository:
 bash
 Copy code
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Creed-The-Topic/My-Portfolio
 Navigate to the project folder:
 bash
 Copy code
@@ -50,7 +50,7 @@ If you have any questions or feedback, feel free to reach out to me:
 
 Email: isaachammond03@gmail.com
 Phone: +233 50 265 9272
-Location: Your City, Your Country
+Location: Accra,Ghana
 🌟 Acknowledgments
 Inspired by modern web design trends.
 Icons and images from free online resources.
